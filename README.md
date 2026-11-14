@@ -10,3 +10,5 @@
 
 слияние, отмена изменений, подмодули и Git LFS.
 
+Draft documentation
+
